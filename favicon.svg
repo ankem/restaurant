@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <rect width="128" height="128" rx="28" fill="#14110F"/>
+  <rect x="6" y="6" width="116" height="116" rx="22" stroke="url(#goldGrad)" stroke-width="2.5" stroke-opacity="0.6"/>
+  <!-- Stylized Swahili Arch & Flame/Spice Motif -->
+  <path d="M64 20C44 36 32 54 32 74C32 91.6731 46.3269 106 64 106C81.6731 106 96 91.6731 96 74C96 54 84 36 64 20Z" fill="url(#amberGrad)" fill-opacity="0.16"/>
+  <path d="M64 26C50 40 40 55 40 72C40 85.2548 50.7452 96 64 96C77.2548 96 88 85.2548 88 72C88 55 78 40 64 26Z" stroke="url(#goldGrad)" stroke-width="3"/>
+  <!-- J Monogram inside Arch -->
+  <path d="M70 46V74C70 81.732 63.732 88 56 88C50.5 88 46.5 85 45 81" stroke="#F59E0B" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="70" cy="36" r="4" fill="#EA580C"/>
+  <defs>
+    <linearGradient id="goldGrad" x1="20" y1="16" x2="108" y2="112" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F59E0B"/>
+      <stop offset="0.5" stop-color="#EA580C"/>
+      <stop offset="1" stop-color="#B45309"/>
+    </linearGradient>
+    <linearGradient id="amberGrad" x1="64" y1="20" x2="64" y2="106" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#EA580C"/>
+    </linearGradient>
+  </defs>
+</svg>

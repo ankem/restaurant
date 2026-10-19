@@ -1,0 +1,20 @@
+{
+  "name": "Jambo Cuisine Catering",
+  "short_name": "Jambo Cuisine",
+  "description": "Modern East African, Swahili Coast & Indian-African Fusion Catering — Plan events, calculate portions, and submit catering orders.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#14110F",
+  "theme_color": "#D97706",
+  "orientation": "portrait-primary",
+  "categories": ["food", "shopping", "lifestyle"],
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
